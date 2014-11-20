@@ -1,11 +1,11 @@
 {
   "name": "atom-neovim",
-  "main": "./lib/vim-mode",
+  "main": "./lib/neovim-mode",
   "version": "0.10.1",
   "description": "Make Atom your GUI to NeoVim.",
   "license": "MIT",
   "private": true,
-  "repository": "https://github.com/carlosdcastillo/vim-mode",
+  "repository": "https://github.com/trusktr/atom-neovim",
   "engines": {
     "atom": ">0.99.0"
   },
